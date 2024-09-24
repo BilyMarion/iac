@@ -1,4 +1,4 @@
-name: Cloudcore IAC
+name: Cloudcore IAC  #This pipeline runs only when there's a pull/push request or when there's a change in the terraform folder
 
 on:
     push:
